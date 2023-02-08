@@ -1,0 +1,8 @@
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\bin\Debug\Weather.Cli.exe.config
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\bin\Debug\Weather.Cli.exe
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\bin\Debug\Weather.Cli.pdb
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\obj\Debug\Weather.Cli.csproj.AssemblyReference.cache
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\obj\Debug\Weather.Cli.csproj.SuggestedBindingRedirects.cache
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\obj\Debug\Weather.Cli.csproj.CoreCompileInputs.cache
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\obj\Debug\Weather.Cli.exe
+C:\Users\YB826BP\OneDrive - EY\Desktop\weatherApp\Weather.Cli\obj\Debug\Weather.Cli.pdb
